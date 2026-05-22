@@ -235,6 +235,79 @@ Example log output:
 - No rate limiting is implemented on the login route. A real application should limit failed login attempts to prevent brute force attacks.
 
 ---
+# Cyber Security Internship Tasks (Weeks 4–6)
+
+## Overview
+This repository contains cybersecurity internship tasks completed during Weeks 4–6. 
+The project focuses on web security hardening, ethical hacking, penetration testing, 
+security auditing, and secure deployment practices.
+
+---
+
+# Week 4 – Advanced Threat Detection & Web Security
+
+## Implemented Features
+- API Rate Limiting
+- Helmet Security Headers
+- Content Security Policy (CSP)
+- HSTS Configuration
+- Secure CORS Policies
+- Logging & Monitoring
+
+## Files
+- app_4.js
+
+---
+
+# Week 5 – Ethical Hacking & Vulnerability Testing
+
+## Activities Performed
+- SQL Injection Testing using SQLMap
+- CSRF Testing using Burp Suite
+- Ethical Hacking using Kali Linux
+- Secure Coding Improvements
+
+## Files
+- app_5.js
+- app_5new.js
+
+---
+
+# Week 6 – Security Audits & Secure Deployment
+
+## Activities Performed
+- OWASP ZAP Security Audit
+- Penetration Testing
+- Security Hardening
+- Deployment Security Review
+
+## Reports
+- ZAP HTML Reports
+
+---
+
+# Bonus Tasks
+
+## Implemented
+- Web Application Firewall (WAF)
+- Advanced Security Enhancements
+- Zero Trust Security Concepts
+
+## Files
+- app_bonus.js
+- app_waf.js
+
+---
+
+# Tools & Technologies
+- Node.js
+- Express.js
+- OWASP ZAP
+- Burp Suite
+- SQLMap
+- Helmet
+- JWT
+- Kali Linux
 
 ## References
 
